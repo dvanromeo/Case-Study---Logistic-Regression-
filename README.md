@@ -6,10 +6,6 @@ This directory contains the completed solutions for the Logistic Regression Adva
 
 - `Logistic Regression Advanced Case Study.ipynb`: The original Jupyter notebook with the case study
 - `heart.xlsx`: The heart disease dataset used in the case study
-- `exercise_set_I.py`: Solution for Checkup Exercise Set I - Scatter plot of Blood Pressure vs. Cholesterol Level
-- `exercise_set_II.py`: Solution for Checkup Exercise Set II - Grid search for optimal C parameter
-- `exercise_set_III.py`: Solution for Checkup Exercise Set III - Testing model with best C parameter
-- `exercise_set_IV.py`: Solution for Checkup Exercise Set IV - Using GridSearchCV
 
 ## Visualizations
 
